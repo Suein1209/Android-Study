@@ -1,10 +1,11 @@
-# Android Study
-## About Android
-### Andro
+# About Android
+## 안드로이드 버전별 백그라운드 정책
+
+
  
 ### Google Android Development
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDk5MzIwMiwtNDI4ODU4MTM1LDQ4MT
-IzMjcxOF19
+eyJoaXN0b3J5IjpbNTQ1NTgwNDU2LC00Mjg4NTgxMzUsNDgxMj
+MyNzE4XX0=
 -->
