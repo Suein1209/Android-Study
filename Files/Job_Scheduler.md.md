@@ -8,7 +8,7 @@
 ## 암시적 브로드캐스트 제한
 - 암시적 브로드캐스트 인텐트(Implicit Broadcast Intent)란 **특정 앱을 대상으로 하지 않는** 브로드캐스트 인텐트
 - 안드로이드O 에서는 암시적 브로드캐스트 수신자를 등록 할 수 없도록 [제한](https://developer.android.com/about/versions/oreo/background#broadcasts)
-- 
+#### 안드로이드N 상에서는 특정인텐트 동작을 제한
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjM4NjAzNl19
+eyJoaXN0b3J5IjpbLTE3NDk5MjQ3MzBdfQ==
 -->
