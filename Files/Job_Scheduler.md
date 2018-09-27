@@ -42,8 +42,6 @@
 -   재시도 정책
 -   리부팅 시의 현재 조건 유지 여부
 
-
-https://github.com/PyCQA/pycodestyle/blob/c3d2cbd744236c3a41d1013c9dce2712dcc4eee0/pycodestyle.py#L85-L105
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTE1NzUwOF19
+eyJoaXN0b3J5IjpbNTQzMjk0NTE0XX0=
 -->
