@@ -19,7 +19,8 @@
 - [Context.registerReceiver()](https://developer.android.com/reference/android/content/Context.html#registerReceiver%28android.content.BroadcastReceiver,%20android.content.IntentFilter%29)를 통해 리시버를 동적으로 등록할 수 있고 이렇게 등록된 리시버는 암시적 브로드캐스트 인텐트의 수신 제한에 해당되지 않는다.
 
 ## JobScheduler?
+- 안드로이드 롤리팝에서는 Project Volta와 함께 백그라운드 동작을 최적화하기 위한 일환으로 JobScheduler를 소개
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTkwNzg5LC00NDg3OTgzNzksLTE1Mj
-U2MTE3NzEsNzQ4MjYzMDcyXX0=
+eyJoaXN0b3J5IjpbNDYyNTgyNzIyLDE5MjU5MDc4OSwtNDQ4Nz
+k4Mzc5LC0xNTI1NjExNzcxLDc0ODI2MzA3Ml19
 -->
