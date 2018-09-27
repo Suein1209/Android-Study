@@ -17,8 +17,9 @@
 ## 가능한 작업들
 - AndroidManifest.xml에 명시적(Explicit) 브로드캐스트는 등록이 가능하다.
 - [Context.registerReceiver()](https://developer.android.com/reference/android/content/Context.html#registerReceiver%28android.content.BroadcastReceiver,%20android.content.IntentFilter%29)를 통해 리시버를 동적으로 등록할 수 있고 이렇게 등록된 리시버는 암시적 브로드캐스트 인텐트의 수신 제한에 해당되지 않는다.
-- 
+
+## JobScheduler?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTYwODA1LC00NDg3OTgzNzksLTE1Mj
+eyJoaXN0b3J5IjpbMTkyNTkwNzg5LC00NDg3OTgzNzksLTE1Mj
 U2MTE3NzEsNzQ4MjYzMDcyXX0=
 -->
