@@ -15,8 +15,8 @@
 - [백그라운드 실행 제한](https://developer.android.com/preview/features/background.htl)은 target SDK가 Android O(API Level 26) 이상인 경우에 적용
 
 ## 가능한 작업들
-
+- AndroidManifest.xml에 명시적(Explicit) 브로드캐스트는 등록이 가능
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDU5NDczNSwtMTUyNTYxMTc3MSw3ND
+eyJoaXN0b3J5IjpbLTQ0ODc5ODM3OSwtMTUyNTYxMTc3MSw3ND
 gyNjMwNzJdfQ==
 -->
