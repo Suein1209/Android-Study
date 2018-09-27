@@ -1,5 +1,6 @@
-# study
-나의 공부 1
+# Android Study
+### Google Android Development
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxMjMyNzE4XX0=
+eyJoaXN0b3J5IjpbLTQyODg1ODEzNSw0ODEyMzI3MThdfQ==
 -->
