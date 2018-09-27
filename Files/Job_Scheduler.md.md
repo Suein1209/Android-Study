@@ -20,7 +20,8 @@
 
 ## JobScheduler?
 - 안드로이드 롤리팝에서는 Project Volta와 함께 백그라운드 동작을 최적화하기 위한 일환으로 JobScheduler를 소개
+- 작업에 **필요한 조건 및 인자들**([JobInfo](https://developer.android.com/reference/android/app/job/JobService))과 **해당 조건의 동작**([JobService](https://developer.android.com/reference/android/app/job/JobService))을 등록하고, 안드로이드 프레임워크에 의해 적정한 실행 시점이 제어되는 백그라운드 실행 기능
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyNTgyNzIyLDE5MjU5MDc4OSwtNDQ4Nz
-k4Mzc5LC0xNTI1NjExNzcxLDc0ODI2MzA3Ml19
+eyJoaXN0b3J5IjpbLTUwOTQ1MDMwNCwxOTI1OTA3ODksLTQ0OD
+c5ODM3OSwtMTUyNTYxMTc3MSw3NDgyNjMwNzJdfQ==
 -->
