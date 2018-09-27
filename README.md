@@ -12,9 +12,8 @@ arget API는 현재 출시된 Android 버전보다 1년 이상 오래되지 않�
 # Google Android Development
 - [Job Scheduler](https://github.com/Suein1209/Android-Study/blob/master/Files/Job_Scheduler.md)
 
-https://github.com/Suein1209/ViewPagerViewUpdater/blob/37d1ea2ccfe5a3d88b99218c3c2f663cf3e3544e/app/src/main/java/com/suein/vvuex/fragments/DummyFragment1.kt#L3-L27
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzY2OTQ2NSwxNTAxMTk3MDUwLC0xNz
-c5MjUwOTcwLC0xMDE3NDMzNTQ4LC00Mjg4NTgxMzUsNDgxMjMy
-NzE4XX0=
+eyJoaXN0b3J5IjpbMTU3NDkzOTMwNCwxOTc3NjY5NDY1LDE1MD
+ExOTcwNTAsLTE3NzkyNTA5NzAsLTEwMTc0MzM1NDgsLTQyODg1
+ODEzNSw0ODEyMzI3MThdfQ==
 -->
