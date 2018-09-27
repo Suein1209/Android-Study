@@ -30,8 +30,19 @@
 3.  Job 실행을 위한 권한(`android.permission.BIND_JOB_SERVICE`)를 등록합니다.
 
 ## 실행 조건의 설정과 등록
-[JobInfo](https://developer.android.com/reference/android/app/job/JobInfo)는 네트워크의 연결 상태나 충전 여부, 디바이스의 유휴 시점 등 [JobService](https://developer.android.com/reference/android/app/job/JobService)가 실행되어야 하는 조건을 관리합니다. 설정 가능한 동작 조건은 다음과 같습니다
+[JobInfo](https://developer.android.com/reference/android/app/job/JobInfo)는 네트워크의 연결 상태나 충전 여부, 디바이스의 유휴 시점 등 [JobService](https://developer.android.com/reference/android/app/job/JobService)가 실행되어야 하는 조건을 관리
+-   연결된 네트워크 타입
+-   충전 여부
+-   디바이스 유휴(Idle) 여부
+-   [콘텐트 프로바이더의 갱신](https://developer.android.com/reference/android/app/job/JobInfo.Builder.html#addTriggerContentUri%28android.app.job.JobInfo.TriggerContentUri%29)
+-   클립 데이터
+-   실행 주기
+-   최소 지연 시간
+-   데드라인 설정
+-   재시도 정책
+-   리부팅 시의 현재 조건 유지 여부
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODU2NjU4NiwxOTI1OTA3ODksLTQ0OD
-c5ODM3OSwtMTUyNTYxMTc3MSw3NDgyNjMwNzJdfQ==
+eyJoaXN0b3J5IjpbNTQzMjk0NTE0LDE5MjU5MDc4OSwtNDQ4Nz
+k4Mzc5LC0xNTI1NjExNzcxLDc0ODI2MzA3Ml19
 -->
