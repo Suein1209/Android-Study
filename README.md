@@ -9,9 +9,10 @@ arget API는 현재 출시된 Android 버전보다 1년 이상 오래되지 않�
 -   오레오 8.0 :  [백그라운드 제약](https://developer.android.com/about/versions/oreo/android-8.0-changes#back-all), 백그라운드 서비스와 위치 갱신을 제약하기 시작. 사실상 여기부터 아이폰화..
 -   파이 9.0 :  [앱 대기 버킷](https://developer.android.com/about/versions/pie/power#buckets), [배터리 세이버 개선](https://developer.android.com/about/versions/pie/power#battery-saver)
  
-### Google Android Development
-
+# Google Android Development
+- Job Scheduler
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc0MzM1NDgsLTQyODg1ODEzNSw0OD
-EyMzI3MThdfQ==
+eyJoaXN0b3J5IjpbMTQ3MTQ0MDA1NCwtMTAxNzQzMzU0OCwtND
+I4ODU4MTM1LDQ4MTIzMjcxOF19
 -->
