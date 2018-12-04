@@ -12,8 +12,12 @@ Target API는 현재 출시된 Android 버전보다 1년 이상 오래되지 않
 # Google Android Development
 - [Job Scheduler](https://github.com/Suein1209/Android-Study/blob/master/Files/Job_Scheduler.md)
 
+# 그외 봐야할
+- [AES와 SHA차이] http://brownbears.tistory.com/73
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTIyODg1NCwxNTc0OTM5MzA0LDE5Nz
-c2Njk0NjUsMTUwMTE5NzA1MCwtMTc3OTI1MDk3MCwtMTAxNzQz
-MzU0OCwtNDI4ODU4MTM1LDQ4MTIzMjcxOF19
+eyJoaXN0b3J5IjpbLTE0NTU5OTY0NDYsMTcwOTIyODg1NCwxNT
+c0OTM5MzA0LDE5Nzc2Njk0NjUsMTUwMTE5NzA1MCwtMTc3OTI1
+MDk3MCwtMTAxNzQzMzU0OCwtNDI4ODU4MTM1LDQ4MTIzMjcxOF
+19
 -->
